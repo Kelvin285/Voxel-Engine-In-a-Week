@@ -16,6 +16,7 @@ namespace VoxelEngineCore.Terrain.Blocks
         public override void BuildBlockState(BlockState state)
         {
             state.Visible = false;
+            state.Transparent = true;
         }
     }
 }

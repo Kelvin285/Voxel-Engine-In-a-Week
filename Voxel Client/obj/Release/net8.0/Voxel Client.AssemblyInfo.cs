@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Voxel Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15d245ab2be9bb8efc3aa431f9e912638e40fe01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34a5a05c984d9b7e08e843564d9c4881063f3c85")]
 [assembly: System.Reflection.AssemblyProductAttribute("Voxel Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Voxel Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -38,3 +38,4 @@ C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Release\
 C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Release\net8.0\Voxel Common.pdb
 C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Release\net8.0\Voxel Common.genruntimeconfig.cache
 C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Release\net8.0\ref\Voxel Common.dll
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Release\net8.0\Voxel Common.sourcelink.json

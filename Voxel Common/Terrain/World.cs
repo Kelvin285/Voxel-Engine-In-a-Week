@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using VoxelCommon.Terrain.Enums;
 
 namespace VoxelEngineCore.Terrain
 {
@@ -75,7 +76,7 @@ namespace VoxelEngineCore.Terrain
 
         public World()
         {
-            for (int i = 0; i < 8; i++)
+            for (int i = 0; i < 16; i++)
             {
                 Threads.Add(new ThreadPoolThread(i));
             }
@@ -137,23 +138,30 @@ namespace VoxelEngineCore.Terrain
             var chunk = GetChunk(x >> Chunk.size_SHIFT, y >> Chunk.size_SHIFT, z >> Chunk.size_SHIFT);
             if (chunk != null)
             {
-                return AllBlocks.States[chunk.GetStateID(x & Chunk.size_AND, y & Chunk.size_AND, z & Chunk.size_AND)];
+                if (chunk.x == x >> Chunk.size_SHIFT && chunk.y == y >> Chunk.size_SHIFT && chunk.z == z >> Chunk.size_SHIFT)
+                {
+                    return AllBlocks.States[chunk.GetStateID(x & Chunk.size_AND, y & Chunk.size_AND, z & Chunk.size_AND)];
+                }
             }
             return AllBlocks.Air.DefaultState;
         }
 
-        public bool SetBlockState(int x, int y, int z, BlockState state)
+        public EnumPlaceResult SetBlockState(int x, int y, int z, BlockState state)
         {
             var chunk = GetChunk(x >> Chunk.size_SHIFT, y >> Chunk.size_SHIFT, z >> Chunk.size_SHIFT);
             if (chunk != null)
             {
-                if (chunk.SetStateID(x & Chunk.size_AND, y & Chunk.size_AND, z & Chunk.size_AND, state.GlobalID))
+                if (chunk.x == x >> Chunk.size_SHIFT && chunk.y == y >> Chunk.size_SHIFT && chunk.z == z >> Chunk.size_SHIFT)
                 {
-                    OnBlockSet(x, y, z);
-                    return true;
+                    if (chunk.SetStateID(x & Chunk.size_AND, y & Chunk.size_AND, z & Chunk.size_AND, state.GlobalID))
+                    {
+                        OnBlockSet(x, y, z);
+                        return EnumPlaceResult.Success;
+                    }
+                    return EnumPlaceResult.FailSameBlock;
                 }
             }
-            return false;
+            return EnumPlaceResult.FailNoChunk;
         }
 
         public virtual void OnBlockSet(int x, int y, int z)

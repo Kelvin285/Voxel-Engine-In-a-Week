@@ -12,6 +12,7 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+using VoxelClient.rendering.Terrain.Blocks.Registry;
 
 namespace VoxelEngineClient.rendering.Terrain
 {
@@ -27,6 +28,8 @@ namespace VoxelEngineClient.rendering.Terrain
 
         public TerrainRenderer()
         {
+            AllBlockMeshBuilders.BlockMeshBuilders.Clear();
+            AllBlockMeshBuilders.Register();
             TerrainShader = new();
             TerrainShader.Use();
             TerrainShader.SetFloat3(TerrainShader.sun_dir, SunDir);

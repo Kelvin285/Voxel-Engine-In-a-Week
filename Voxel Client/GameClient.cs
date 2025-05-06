@@ -199,10 +199,12 @@ namespace VoxelEngineClient
             }
 
             gl.Viewport(0, 0, (uint)window.Size.X, (uint)window.Size.Y);
-            gl.ClearColor(0, 0, 0, 1);
+            gl.ClearColor(0.2f, 0.8f, 1, 1);
 
             gl.Clear((uint)(ClearBufferMask.ColorBufferBit | ClearBufferMask.DepthBufferBit));
             gl.Enable(EnableCap.DepthTest);
+            gl.Enable(EnableCap.CullFace);
+            gl.CullFace(GLEnum.Front);
 
             TerrainRenderer!.Render(delta, world);
         }

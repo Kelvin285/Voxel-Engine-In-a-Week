@@ -81,9 +81,7 @@ namespace VoxelEngineClient.world
                             {
                                 chunk.GeneratingTask = new ThreadPoolEntry((index, output) =>
                                 {
-                                    var watch = Stopwatch.StartNew();
                                     generator.GenerateChunk((ClientChunk)output[0]!);
-                                    Console.WriteLine("Gen time: " + watch.ElapsedMilliseconds);
                                 }, 1);
 
                                 ClientChunk clone = new ClientChunk(this);
@@ -92,6 +90,7 @@ namespace VoxelEngineClient.world
                                 clone.z = wz;
 
                                 chunk.GeneratingTask.output[0] = clone;
+                                chunk.GeneratingTask.group = ThreadGroup.First;
 
                                 QueueAction(chunk.GeneratingTask);
 

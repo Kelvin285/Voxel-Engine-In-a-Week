@@ -19,6 +19,7 @@ namespace VoxelEngineCore.Terrain.Blocks.States
         public static List<bool> AllVisible = new();
         public static List<bool> AllTransparent = new();
         public static List<vec3> AllMapColors = new();
+        public static List<bool> AllShowAllFaces = new();
         public static List<TextureHolderBase?> AllTextures = new();
         public static List<uint> AllBits = new();
 
@@ -57,6 +58,11 @@ namespace VoxelEngineCore.Terrain.Blocks.States
             get => AllBits[GlobalID]; set => AllBits[GlobalID] = value;
         }
 
+        public bool ShowAllFaces
+        {
+            get => AllShowAllFaces[GlobalID]; set => AllShowAllFaces[GlobalID] = value;
+        }
+
         public BlockState(Block parent, uint Bits)
         {
             AllParents.Add(parent);
@@ -66,6 +72,7 @@ namespace VoxelEngineCore.Terrain.Blocks.States
             AllMapColors.Add(vec3.Zero);
             AllTextures.Add(null);
             AllBits.Add(Bits);
+            AllShowAllFaces.Add(false);
 
             GlobalID = AllBlocks.States.Count;
             AllBlocks.States.Add(this);

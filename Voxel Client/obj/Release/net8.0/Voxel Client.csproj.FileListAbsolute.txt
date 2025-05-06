@@ -112,3 +112,4 @@ C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Client\obj\Release\
 C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Client\obj\Release\net8.0\Voxel Client.pdb
 C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Client\obj\Release\net8.0\Voxel Client.genruntimeconfig.cache
 C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Client\obj\Release\net8.0\ref\Voxel Client.dll
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Client\obj\Release\net8.0\Voxel Client.sourcelink.json

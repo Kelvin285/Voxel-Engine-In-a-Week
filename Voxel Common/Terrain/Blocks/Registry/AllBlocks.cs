@@ -17,5 +17,9 @@ namespace VoxelEngineCore.Terrain.Blocks.Registry
         public static DirtBlock Dirt = new("dirt");
         public static StoneBlock Stone = new("stone");
         public static LogBlock Log = new("log");
+        public static LeavesBlock Leaves = new("leaves");
+        public static TallGrassBlock TallGrass = new("tall_grass");
+        public static TallGrassBlock BlueFlower = new("blue_flower");
+        public static TallGrassBlock WhiteFlower = new("white_flower");
     }
 }

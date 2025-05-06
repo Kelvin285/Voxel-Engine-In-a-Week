@@ -48,12 +48,10 @@ namespace VoxelEngineClient.world
                     int z = this.z;
                     BuildTask = new(new((index, result) =>
                     {
-                        var watch = Stopwatch.StartNew();
-                        result[0] = TerrainMesh.PrepareFromChunk(world, x, y, z);
-                        Console.WriteLine("Build time: " + watch.ElapsedMilliseconds);
+                        result[0] = TerrainMesh.PrepareFromChunk((ClientWorld)world, x, y, z);
                     }), 1);
 
-                    BuildTask.group = World.ThreadGroup.Any;
+                    BuildTask.group = World.ThreadGroup.First;
 
                     world.QueueAction(BuildTask);
                 }

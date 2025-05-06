@@ -13,5 +13,9 @@ void main() {
 
 	tex_color.xyz *= o_color;
 
+	if (tex_color.w <= 0.01) {
+		discard;
+	}
+
 	render_color = tex_color;
 }

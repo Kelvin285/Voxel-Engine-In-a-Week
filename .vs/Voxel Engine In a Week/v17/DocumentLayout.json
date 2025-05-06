@@ -3,52 +3,132 @@
   "WorkspaceRootPath": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\chunks\\generators\\chunkgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\chunks\\generators\\chunkgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\chunks\\structures\\grassstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\chunks\\structures\\grassstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\rendering\\terrain\\blocktextureholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\rendering\\terrain\\blocktextureholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\rendering\\terrain\\blocks\\registry\\allblockmeshbuilders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\rendering\\terrain\\blocks\\registry\\allblockmeshbuilders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\blocks\\registry\\allblocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\blocks\\registry\\allblocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\blocks\\logblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\blocks\\logblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\blocks\\leavesblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\blocks\\leavesblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\chunks\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\chunks\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\world\\clientworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\world\\clientworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\assets\\shaders\\terrain.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\assets\\shaders\\terrain.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\world\\clientchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\world\\clientchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\blocks\\tallgrassblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\blocks\\tallgrassblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\blocks\\stoneblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\blocks\\stoneblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\chunks\\structures\\treestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\chunks\\structures\\treestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\chunks\\generators\\chunkgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\chunks\\generators\\chunkgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\chunks\\structures\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\chunks\\structures\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\chunks\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\chunks\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\chunks\\structures\\registry\\allstructures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\chunks\\structures\\registry\\allstructures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\rendering\\terrain\\blocks\\blockmeshbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\rendering\\terrain\\blocks\\blockmeshbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\rendering\\terrain\\blocks\\crossmeshbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\rendering\\terrain\\blocks\\crossmeshbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\rendering\\terrain\\blocks\\registry\\entries\\crossentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\rendering\\terrain\\blocks\\registry\\entries\\crossentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\rendering\\terrain\\blocks\\registry\\entries\\cubeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\rendering\\terrain\\blocks\\registry\\entries\\cubeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\rendering\\terrain\\blocks\\cubemeshbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\rendering\\terrain\\blocks\\cubemeshbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\rendering\\terrain\\terrainmesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\rendering\\terrain\\terrainmesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\rendering\\terrain\\terrainrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\rendering\\terrain\\terrainrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\rendering\\terrain\\blocks\\registry\\blockmeshbuilderentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\rendering\\terrain\\blocks\\registry\\blockmeshbuilderentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\blocks\\states\\blockstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\blocks\\states\\blockstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\blocks\\leavesblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\blocks\\leavesblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\blocks\\airblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\blocks\\airblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\blocks\\dirtblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\blocks\\dirtblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel client\\assets\\shaders\\terrain.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1851D108-1A9B-440C-A791-60353C6A833B}|Voxel Client\\Voxel Client.csproj|solutionrelative:voxel client\\assets\\shaders\\terrain.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\blocks\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\blocks\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\chunks\\structures\\structureinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\chunks\\structures\\structureinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\enums\\enumplaceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\enums\\enumplaceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|c:\\users\\lolga\\documents\\github\\voxel-engine-in-a-week\\voxel common\\terrain\\blocks\\logblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064838A8-4031-487F-AD7E-B8BEE37ADD9F}|Voxel Common\\Voxel Common.csproj|solutionrelative:voxel common\\terrain\\blocks\\logblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,98 +142,111 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LogBlock.cs",
-              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\LogBlock.cs",
-              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Blocks\\LogBlock.cs",
-              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\LogBlock.cs",
-              "RelativeToolTip": "Voxel Common\\Terrain\\Blocks\\LogBlock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABoAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ClientChunk.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\world\\ClientChunk.cs",
+              "RelativeDocumentMoniker": "Voxel Client\\world\\ClientChunk.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\world\\ClientChunk.cs",
+              "RelativeToolTip": "Voxel Client\\world\\ClientChunk.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIAzwDIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T03:47:43.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LeavesBlock.cs",
-              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\LeavesBlock.cs",
-              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Blocks\\LeavesBlock.cs",
-              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\LeavesBlock.cs",
-              "RelativeToolTip": "Voxel Common\\Terrain\\Blocks\\LeavesBlock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T03:47:19.078Z",
+              "WhenOpened": "2025-05-06T02:55:55.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "World.cs",
-              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\World.cs",
-              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\World.cs",
-              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\World.cs",
-              "RelativeToolTip": "Voxel Common\\Terrain\\World.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAIwIYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T02:54:06.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Chunk.cs",
-              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Chunk.cs",
-              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Chunks\\Chunk.cs",
-              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Chunk.cs",
-              "RelativeToolTip": "Voxel Common\\Terrain\\Chunks\\Chunk.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAawB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T02:53:51.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ClientWorld.cs",
               "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\world\\ClientWorld.cs",
               "RelativeDocumentMoniker": "Voxel Client\\world\\ClientWorld.cs",
               "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\world\\ClientWorld.cs",
               "RelativeToolTip": "Voxel Client\\world\\ClientWorld.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAYwE8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAFwAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T02:52:05.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChunkGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Generators\\ChunkGenerator.cs",
-              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Chunks\\Generators\\ChunkGenerator.cs",
-              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Generators\\ChunkGenerator.cs",
-              "RelativeToolTip": "Voxel Common\\Terrain\\Chunks\\Generators\\ChunkGenerator.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBkAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "GameClient.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\GameClient.cs",
+              "RelativeDocumentMoniker": "Voxel Client\\GameClient.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\GameClient.cs",
+              "RelativeToolTip": "Voxel Client\\GameClient.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAuwMkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T02:47:32.043Z",
+              "WhenOpened": "2025-05-06T02:39:37.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Chunk.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Chunk.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Chunks\\Chunk.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Chunk.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Chunks\\Chunk.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAA+wHoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:53:51.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllBlockMeshBuilders.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\AllBlockMeshBuilders.cs",
+              "RelativeDocumentMoniker": "Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\AllBlockMeshBuilders.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\AllBlockMeshBuilders.cs",
+              "RelativeToolTip": "Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\AllBlockMeshBuilders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:59:15.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrassStructure.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Structures\\GrassStructure.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Chunks\\Structures\\GrassStructure.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Structures\\GrassStructure.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Chunks\\Structures\\GrassStructure.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:37:52.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TreeStructure.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Structures\\TreeStructure.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Chunks\\Structures\\TreeStructure.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Structures\\TreeStructure.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Chunks\\Structures\\TreeStructure.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwD8AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:41:13.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AllBlocks.cs",
-              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\Registry\\AllBlocks.cs",
-              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Blocks\\Registry\\AllBlocks.cs",
-              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\Registry\\AllBlocks.cs",
-              "RelativeToolTip": "Voxel Common\\Terrain\\Blocks\\Registry\\AllBlocks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Title": "BlockTextureHolder.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\BlockTextureHolder.cs",
+              "RelativeDocumentMoniker": "Voxel Client\\rendering\\Terrain\\BlockTextureHolder.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\BlockTextureHolder.cs",
+              "RelativeToolTip": "Voxel Client\\rendering\\Terrain\\BlockTextureHolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T02:47:13.031Z",
+              "WhenOpened": "2025-05-06T17:04:52.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "StoneBlock.cs",
               "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\StoneBlock.cs",
               "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Blocks\\StoneBlock.cs",
@@ -166,7 +259,232 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllBlocks.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\Registry\\AllBlocks.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Blocks\\Registry\\AllBlocks.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\Registry\\AllBlocks.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Blocks\\Registry\\AllBlocks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:47:13.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Structure.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Structures\\Structure.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Chunks\\Structures\\Structure.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Structures\\Structure.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Chunks\\Structures\\Structure.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:19:23.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AllStructures.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Structures\\Registry\\AllStructures.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Chunks\\Structures\\Registry\\AllStructures.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Structures\\Registry\\AllStructures.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Chunks\\Structures\\Registry\\AllStructures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:55:59.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CrossEntry.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\Entries\\CrossEntry.cs",
+              "RelativeDocumentMoniker": "Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\Entries\\CrossEntry.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\Entries\\CrossEntry.cs",
+              "RelativeToolTip": "Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\Entries\\CrossEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:27:47.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TallGrassBlock.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\TallGrassBlock.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Blocks\\TallGrassBlock.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\TallGrassBlock.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Blocks\\TallGrassBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:27:03.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChunkGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Generators\\ChunkGenerator.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Chunks\\Generators\\ChunkGenerator.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Generators\\ChunkGenerator.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Chunks\\Generators\\ChunkGenerator.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwFYAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:47:32.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CubeEntry.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\Entries\\CubeEntry.cs",
+              "RelativeDocumentMoniker": "Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\Entries\\CubeEntry.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\Entries\\CubeEntry.cs",
+              "RelativeToolTip": "Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\Entries\\CubeEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:12:34.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BlockMeshBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\BlockMeshBuilder.cs",
+              "RelativeDocumentMoniker": "Voxel Client\\rendering\\Terrain\\Blocks\\BlockMeshBuilder.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\BlockMeshBuilder.cs",
+              "RelativeToolTip": "Voxel Client\\rendering\\Terrain\\Blocks\\BlockMeshBuilder.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAwOEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:58:41.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TerrainMesh.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\TerrainMesh.cs",
+              "RelativeDocumentMoniker": "Voxel Client\\rendering\\Terrain\\TerrainMesh.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\TerrainMesh.cs",
+              "RelativeToolTip": "Voxel Client\\rendering\\Terrain\\TerrainMesh.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAwKkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:51:14.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CrossMeshBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\CrossMeshBuilder.cs",
+              "RelativeDocumentMoniker": "Voxel Client\\rendering\\Terrain\\Blocks\\CrossMeshBuilder.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\CrossMeshBuilder.cs",
+              "RelativeToolTip": "Voxel Client\\rendering\\Terrain\\Blocks\\CrossMeshBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:24:29.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CubeMeshBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\CubeMeshBuilder.cs",
+              "RelativeDocumentMoniker": "Voxel Client\\rendering\\Terrain\\Blocks\\CubeMeshBuilder.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\CubeMeshBuilder.cs",
+              "RelativeToolTip": "Voxel Client\\rendering\\Terrain\\Blocks\\CubeMeshBuilder.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:04:10.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TerrainRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\TerrainRenderer.cs",
+              "RelativeDocumentMoniker": "Voxel Client\\rendering\\Terrain\\TerrainRenderer.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\TerrainRenderer.cs",
+              "RelativeToolTip": "Voxel Client\\rendering\\Terrain\\TerrainRenderer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:14:20.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BlockMeshBuilderEntry.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\BlockMeshBuilderEntry.cs",
+              "RelativeDocumentMoniker": "Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\BlockMeshBuilderEntry.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\BlockMeshBuilderEntry.cs",
+              "RelativeToolTip": "Voxel Client\\rendering\\Terrain\\Blocks\\Registry\\BlockMeshBuilderEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:08:48.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\Block.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Blocks\\Block.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\Block.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Blocks\\Block.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:40:17.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AirBlock.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\AirBlock.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Blocks\\AirBlock.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\AirBlock.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Blocks\\AirBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:40:52.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LeavesBlock.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\LeavesBlock.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Blocks\\LeavesBlock.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\LeavesBlock.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Blocks\\LeavesBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:47:19.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "terrain.frag",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\assets\\shaders\\terrain.frag",
+              "RelativeDocumentMoniker": "Voxel Client\\assets\\shaders\\terrain.frag",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\assets\\shaders\\terrain.frag",
+              "RelativeToolTip": "Voxel Client\\assets\\shaders\\terrain.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-06T02:59:05.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\World.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\World.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\World.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\World.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAE4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:54:06.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "DirtBlock.cs",
               "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\DirtBlock.cs",
               "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Blocks\\DirtBlock.cs",
@@ -174,47 +492,55 @@
               "RelativeToolTip": "Voxel Common\\Terrain\\Blocks\\DirtBlock.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T02:46:07.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T02:46:07.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GameClient.cs",
-              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\GameClient.cs",
-              "RelativeDocumentMoniker": "Voxel Client\\GameClient.cs",
-              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\GameClient.cs",
-              "RelativeToolTip": "Voxel Client\\GameClient.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAA2wJIAAAApAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "BlockState.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\States\\BlockState.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Blocks\\States\\BlockState.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\States\\BlockState.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Blocks\\States\\BlockState.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T02:39:37.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T13:00:27.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ClientChunk.cs",
-              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\world\\ClientChunk.cs",
-              "RelativeDocumentMoniker": "Voxel Client\\world\\ClientChunk.cs",
-              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\world\\ClientChunk.cs",
-              "RelativeToolTip": "Voxel Client\\world\\ClientChunk.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 29,
+              "Title": "StructureInstance.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Structures\\StructureInstance.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Chunks\\Structures\\StructureInstance.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Chunks\\Structures\\StructureInstance.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Chunks\\Structures\\StructureInstance.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCAAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T02:55:55.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T12:51:54.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "terrain.frag",
-              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\assets\\shaders\\terrain.frag",
-              "RelativeDocumentMoniker": "Voxel Client\\assets\\shaders\\terrain.frag",
-              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Client\\assets\\shaders\\terrain.frag",
-              "RelativeToolTip": "Voxel Client\\assets\\shaders\\terrain.frag",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-06T02:59:05.261Z",
-              "EditorCaption": ""
+              "DocumentIndex": 30,
+              "Title": "EnumPlaceResult.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Enums\\EnumPlaceResult.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Enums\\EnumPlaceResult.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Enums\\EnumPlaceResult.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Enums\\EnumPlaceResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:03:14.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LogBlock.cs",
+              "DocumentMoniker": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\LogBlock.cs",
+              "RelativeDocumentMoniker": "Voxel Common\\Terrain\\Blocks\\LogBlock.cs",
+              "ToolTip": "C:\\Users\\lolga\\Documents\\GitHub\\Voxel-Engine-In-a-Week\\Voxel Common\\Terrain\\Blocks\\LogBlock.cs",
+              "RelativeToolTip": "Voxel Common\\Terrain\\Blocks\\LogBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:47:43.349Z"
             }
           ]
         }

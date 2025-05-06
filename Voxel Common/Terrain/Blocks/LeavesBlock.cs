@@ -18,6 +18,8 @@ namespace VoxelCommon.Terrain.Blocks
         public override void BuildBlockState(BlockState state)
         {
             state.TextureHolder = new TextureHolderSingle(Name);
+            state.Transparent = true;
+            state.ShowAllFaces = true;
         }
     }
 }

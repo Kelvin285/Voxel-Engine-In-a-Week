@@ -11,6 +11,8 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using VoxelClient.rendering.Terrain.Blocks.Registry;
+using VoxelEngineClient.world;
 
 namespace VoxelEngineClient.rendering.Terrain
 {
@@ -136,95 +138,8 @@ namespace VoxelEngineClient.rendering.Terrain
 
             }
         }
-        static void AddFace(BlockSideEnum side, int x, int y, int z, PrepareResult result, ref uint index, BlockState state, TerrainRenderer renderer)
-        {
-            result.indices.AddRange([index + 0, index + 1, index + 2, index + 2, index + 3, index + 0]);
-            index += 4;
-            var uv = renderer!.BlockTextureHolders[state.GlobalID];
-            if (uv == null)
-            {
-                result.uvs.AddRange([new(-1), new(-1), new(-1), new(-1)]);
-                var c = state.MapColor;
-                result.colors.AddRange([
-                    c, c, c, c
-                ]);
-            }
-            else
-            {
-                var c = new vec3(1, 1, 1);
-                result.colors.AddRange([
-                    c, c, c, c
-                    ]);
-                var rect = uv[side];
-                result.uvs.AddRange([
 
-                    new(rect.x1, rect.y2),
-                                        new(rect.x1, rect.y1),
-                                        new(rect.x2, rect.y1),
-                                        new(rect.x2, rect.y2)
-
-                    ]);
-            }
-
-            var normal = side.GetNormal();
-            result.normals.AddRange([normal, normal, normal, normal]);
-
-            switch (side)
-            {
-                case BlockSideEnum.Left:
-                    result.verts.AddRange([
-                        new(x, y, z + 1),
-                                            new(x, y + 1, z + 1),
-                                            new(x, y + 1, z),
-                                            new(x, y, z)
-                        ]);
-                    break;
-                case BlockSideEnum.Right:
-                    result.verts.AddRange([
-                        new(x + 1, y, z),
-                                            new(x + 1, y + 1, z),
-                                            new(x + 1, y + 1, z + 1),
-                                            new(x + 1, y, z + 1)
-                        ]);
-                    break;
-                case BlockSideEnum.Front:
-                    result.verts.AddRange([
-                        new(x, y, z),
-                                            new(x, y + 1, z),
-                                            new(x + 1, y + 1, z),
-                                            new(x + 1, y, z)
-                        ]);
-                    break;
-                case BlockSideEnum.Back:
-                    result.verts.AddRange([
-                        new(x + 1, y, z + 1),
-                                            new(x + 1, y + 1, z + 1),
-                                            new(x, y + 1, z + 1),
-                                            new(x, y, z + 1)
-                        ]);
-                    break;
-                case BlockSideEnum.Bottom:
-                    result.verts.AddRange([
-                        new(x, y, z + 1),
-                                            new(x, y, z),
-                                            new(x + 1, y, z),
-                                            new(x + 1, y, z + 1)
-                        ]);
-
-
-                    break;
-                case BlockSideEnum.Top:
-                    result.verts.AddRange([
-                        new(x, y + 1, z),
-                                            new(x, y + 1, z + 1),
-                                            new(x + 1, y + 1, z + 1),
-                                            new(x + 1, y + 1, z)
-                        ]);
-                    break;
-            }
-        }
-
-        public static PrepareResult? PrepareFromChunk(World world, int cx, int cy, int cz)
+        public static PrepareResult? PrepareFromChunk(ClientWorld world, int cx, int cy, int cz)
         {
             var chunk = world.GetChunk(cx, cy, cz);
             if (chunk == null)
@@ -249,39 +164,10 @@ namespace VoxelEngineClient.rendering.Terrain
 
                         var state = world.GetBlockState(wx, wy, wz);
 
-                        if (state.Visible)
+                        var builder = AllBlockMeshBuilders.BlockMeshBuilders[state.GlobalID];
+                        if (builder != null)
                         {
-                            
-
-                            if (!world.GetBlockState(wx - 1, wy, wz).Visible)
-                            {
-                                AddFace(BlockSideEnum.Left, x, y, z, result, ref index, state, renderer!);
-                            }
-
-                            if (!world.GetBlockState(wx + 1, wy, wz).Visible)
-                            {
-                                AddFace(BlockSideEnum.Right, x, y, z, result, ref index, state, renderer!);
-                            }
-
-                            if (!world.GetBlockState(wx, wy - 1, wz).Visible)
-                            {
-                                AddFace(BlockSideEnum.Bottom, x, y, z, result, ref index, state, renderer!);
-                            }
-
-                            if (!world.GetBlockState(wx, wy + 1, wz).Visible)
-                            {
-                                AddFace(BlockSideEnum.Top, x, y, z, result, ref index, state, renderer!);
-                            }
-
-                            if (!world.GetBlockState(wx, wy, wz - 1).Visible)
-                            {
-                                AddFace(BlockSideEnum.Front, x, y, z, result, ref index, state, renderer!);
-                            }
-
-                            if (!world.GetBlockState(wx, wy, wz + 1).Visible)
-                            {
-                                AddFace(BlockSideEnum.Back, x, y, z, result, ref index, state, renderer!);
-                            }
+                            builder.Build(world, x, y, z, wx, wy, wz, result, state, ref index, renderer!);
                         }
                     }
                 }
