@@ -1,0 +1,3 @@
+﻿using VoxelEngineCore;
+
+Core.SetupCore();

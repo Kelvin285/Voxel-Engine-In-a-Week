@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Voxel Engine Server": {
+      "commandName": "Project"
+    }
+  }
+}

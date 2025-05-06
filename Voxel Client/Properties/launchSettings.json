@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Voxel Engine Client": {
+      "commandName": "Project",
+      "workingDirectory": "./"
+    }
+  }
+}

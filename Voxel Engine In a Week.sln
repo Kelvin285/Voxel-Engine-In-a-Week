@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voxel Client", "Voxel Client\Voxel Client.csproj", "{1851D108-1A9B-440C-A791-60353C6A833B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voxel Common", "Voxel Common\Voxel Common.csproj", "{064838A8-4031-487F-AD7E-B8BEE37ADD9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voxel Server", "Voxel Server\Voxel Server.csproj", "{11297BA5-94CC-4275-89C5-CC0FC0343690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1851D108-1A9B-440C-A791-60353C6A833B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1851D108-1A9B-440C-A791-60353C6A833B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1851D108-1A9B-440C-A791-60353C6A833B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1851D108-1A9B-440C-A791-60353C6A833B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{064838A8-4031-487F-AD7E-B8BEE37ADD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064838A8-4031-487F-AD7E-B8BEE37ADD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064838A8-4031-487F-AD7E-B8BEE37ADD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064838A8-4031-487F-AD7E-B8BEE37ADD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11297BA5-94CC-4275-89C5-CC0FC0343690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11297BA5-94CC-4275-89C5-CC0FC0343690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11297BA5-94CC-4275-89C5-CC0FC0343690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11297BA5-94CC-4275-89C5-CC0FC0343690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

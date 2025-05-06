@@ -1,0 +1,20 @@
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\bin\Debug\net8.0\Voxel Common.exe
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\bin\Debug\net8.0\Voxel Common.deps.json
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\bin\Debug\net8.0\Voxel Common.runtimeconfig.json
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\bin\Debug\net8.0\Voxel Common.dll
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\bin\Debug\net8.0\Voxel Common.pdb
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\bin\Debug\net8.0\Bits.dll
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\bin\Debug\net8.0\DotnetNoise.dll
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\bin\Debug\net8.0\GlmSharp.dll
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Debug\net8.0\Voxel Common.csproj.AssemblyReference.cache
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Debug\net8.0\Voxel Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Debug\net8.0\Voxel Common.AssemblyInfoInputs.cache
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Debug\net8.0\Voxel Common.AssemblyInfo.cs
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Debug\net8.0\Voxel Common.csproj.CoreCompileInputs.cache
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Debug\net8.0\Voxel Co.F3861FEF.Up2Date
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Debug\net8.0\Voxel Common.dll
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Debug\net8.0\refint\Voxel Common.dll
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Debug\net8.0\Voxel Common.pdb
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Debug\net8.0\Voxel Common.genruntimeconfig.cache
+C:\Users\lolga\Documents\GitHub\Voxel-Engine-In-a-Week\Voxel Common\obj\Debug\net8.0\ref\Voxel Common.dll
